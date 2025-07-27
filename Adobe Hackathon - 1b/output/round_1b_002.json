@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-27T07:28:18.382036"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Be Handy For Longer Trips",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Student Life",
+      "importance_rank": 2,
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Outdoor Adventures Cooking Classes Performances Throughout The City",
+      "importance_rank": 3,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "A Top Choice For Fine Dining",
+      "importance_rank": 4,
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Agriculture And Enjoy The Freshest Ingredients Available",
+      "importance_rank": 5,
+      "page_number": 6
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Toiletries Clothing: Leave Room for Souvenirs: Basic Toiletries: Light sweaters, long-sleeve shirts, t-shirts, and a medium-weight jacket. Toothbrush, toothpaste, shampoo, conditioner, body wash, Leave extra space or bring a foldable bag for souvenirs.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "experience for visitors of all ages. to the 14th century. opera house.",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Menton Toulouse : Visit the serene beaches and beautiful gardens in this charming town near : Discover the Musée des Augustins, a fine arts museum housed in a former Water Activities Pyrenees : Escape to the mountains for a meditation retreat. Verdon Gorge: Take a family hike or rent paddle boats to explore the stunning Verdon Provence designer stores, and luxury brands. the Italian border.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "The lavish decor and exceptional service make it a dining experience  to remember. The creative menu  and elegant ambiance make it a standout dining destination. The elegant setting and exceptional service make it  a top choice for fine dining.",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Some classes even  include a visit to a local market to shop for fresh ingredients. Take a wine tour to visit vineyards, taste local wines, and learn about  the winemaking process. Many wineries oﬀer guided tours and tastings, giving you the  opportunity to sample a variety of wines and discover new favorites.",
+      "page_number": 6
+    }
+  ]
+}

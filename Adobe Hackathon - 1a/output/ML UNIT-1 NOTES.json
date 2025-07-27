@@ -1,0 +1,195 @@
+{
+  "title": "Aditya Engineering College (A)",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "MACHINE LEARNING Notes - 201CS6T01",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "TOPIC-1: Introduction- Artificial Intelligence, Machine Learning, Deep learning:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Why Artificial Intelligence?",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Machine Learning:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Deep Learning:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Deep learning is based on the branch of machine learning, which is a subset of",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "artificial intelligence.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Since neural networks imitate the human brain and so deep learning will do. In deep",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "learning, nothing is programmed explicitly.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Basically, it is a machine learning class that makes use of numerous nonlinear",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "processing units so as to perform feature extraction as well as transformation.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "IDEA Deep learning is implemented with the help of Neural Networks, and the idea",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "behind the motivation of Neural Network is the biological neurons, which is nothing",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "but a brain cell.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Deep learning is a collection of statistical techniques of machine learning for learning",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "feature hierarchies that are actually based on artificial neural networks.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Example of Deep Learning:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "TOPIC-2: Types of Machine Learning Systems",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2. Unsupervised Machine Learning:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Unsupervised Learning can be further classified into two types, which are given below:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Clustering",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Association",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "1) Clustering:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Some of the popular clustering algorithms are given below",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "2) Association:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Advantages and Disadvantages of Unsupervised Learning Algorithm:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Advantages:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Disadvantages:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "3. Semi-Supervised Learning:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "4. Reinforcement Learning:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "TOPIC-3: Main Challenges of Machine Learning:",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "TOPIC-4 Statistical Learning: Introduction",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "TOPIC-5 Supervised and Unsupervised Learning:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "TOPIC-6 Training and Test Loss:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "TOPIC-7 Tradeoffs in Statistical Learning:",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "TOPIC-8 Estimating Risk:",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "TOPIC-9 Sampling distributions of estimators",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "TOPIC-10 Empirical Risk Minimization:",
+      "page": 18
+    }
+  ]
+}

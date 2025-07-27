@@ -1,0 +1,16 @@
+# PDF parsing
+PyMuPDF>=1.22.5
+
+# Embeddings & semantic search
+sentence-transformers>=2.2.2
+torch>=1.12.0
+
+# Fast approximate NN
+faiss-cpu>=1.7.3
+
+# Clustering & caching
+scikit-learn>=1.0.0
+joblib>=1.1.0
+
+# Summarization
+transformers>=4.20.0
