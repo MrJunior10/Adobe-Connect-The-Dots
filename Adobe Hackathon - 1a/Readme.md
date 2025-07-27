@@ -110,4 +110,3 @@ Processed JSON files will appear in `output/`, matching the structure defined in
 
 ---
 
-Good luck with your submission!
